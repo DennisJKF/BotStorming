@@ -1,9 +1,4 @@
-// Description:
-//   Example scripts for you to examine and try out.
-//
-// Commands:
-//   hubot send to group <group_id> <message> <n> times
-//   hubot group_id - show the current group ID
+
 
 var ideas=new Array();
 var idea_count=0;
